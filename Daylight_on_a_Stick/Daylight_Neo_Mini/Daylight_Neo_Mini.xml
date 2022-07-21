@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\adam\Documents\GitHub\V3D-Voron-Mods\Daylight_on_a_Stick\Daylight_Neo_Mini\Daylight_Neo_Mini.kicad_sch</source>
+    <date>21/07/2022 12:32:01</date>
+    <tool>Eeschema (6.0.4)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Daylight_Neo_Mini.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <footprint>Daylight:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_V3Dspec</footprint>
+      <fields>
+        <field name="LCSC">C24497</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C24497"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e5ff609-e13a-4fd5-b37f-897bc07f60ea</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Daylight:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_V3Dspec</footprint>
+      <fields>
+        <field name="LCSC">C24497</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C24497"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b778cfac-b8a7-40e1-85af-26eb4fb763c8</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>Daylight:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_V3Dspec</footprint>
+      <fields>
+        <field name="LCSC">C24497</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C24497"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36a15e27-5c4a-4a61-88c4-67ba590dd558</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Daylight:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_V3Dspec</footprint>
+      <fields>
+        <field name="LCSC">C24497</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C24497"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0646a32a-a286-4345-bb26-944f505cd6f3</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>Daylight:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_V3Dspec</footprint>
+      <fields>
+        <field name="LCSC">C24497</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C24497"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>548d2f13-9fef-4499-81d8-b1208943584f</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF</value>
+      <footprint>Daylight:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_V3Dspec</footprint>
+      <fields>
+        <field name="LCSC">C24497</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C24497"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83c69802-4f06-4e54-8502-f1a22619d1d1</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>Daylight:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_V3Dspec</footprint>
+      <fields>
+        <field name="LCSC">C24497</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C24497"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb6d6ff3-c1fb-43a1-86ab-ff4f15ec67d1</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>Daylight:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_V3Dspec</footprint>
+      <fields>
+        <field name="LCSC">C24497</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C24497"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcdf2e16-fa72-4356-af55-c3d567adc6c3</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED_ALT</value>
+      <footprint>LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</footprint>
+      <fields>
+        <field name="LCSC">C2890364</field>
+      </fields>
+      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <property name="LCSC" value="C2890364"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b4df7cd-3263-4b77-92ac-f299a3fa3156</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED_ALT</value>
+      <footprint>LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</footprint>
+      <fields>
+        <field name="LCSC">C2890364</field>
+      </fields>
+      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <property name="LCSC" value="C2890364"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37e34f3c-dc44-4cec-a342-5b746a2dad87</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED_ALT</value>
+      <footprint>LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</footprint>
+      <fields>
+        <field name="LCSC">C2890364</field>
+      </fields>
+      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <property name="LCSC" value="C2890364"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29f3b13e-9806-46e5-a45b-c53319e5cc93</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED_ALT</value>
+      <footprint>LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</footprint>
+      <fields>
+        <field name="LCSC">C2890364</field>
+      </fields>
+      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <property name="LCSC" value="C2890364"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6075ff26-0bd1-4639-a3b7-30cdc88d4942</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED_ALT</value>
+      <footprint>LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</footprint>
+      <fields>
+        <field name="LCSC">C2890364</field>
+      </fields>
+      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <property name="LCSC" value="C2890364"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93c52389-64a9-4d5a-bded-97b92d3b032b</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED_ALT</value>
+      <footprint>LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</footprint>
+      <fields>
+        <field name="LCSC">C2890364</field>
+      </fields>
+      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <property name="LCSC" value="C2890364"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b9bc056-fcb9-45a1-955b-54dc12c456b3</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED_ALT</value>
+      <footprint>LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</footprint>
+      <fields>
+        <field name="LCSC">C2890364</field>
+      </fields>
+      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <property name="LCSC" value="C2890364"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef966ccb-457b-4190-9601-dc1bd6ff12aa</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED_ALT</value>
+      <footprint>LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</footprint>
+      <fields>
+        <field name="LCSC">C2890364</field>
+      </fields>
+      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <property name="LCSC" value="C2890364"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9a9434a-ad09-46bb-821e-e0309aa5afde</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>IN</value>
+      <footprint>Connector_JST:JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccaefeec-b6db-46b5-a63e-064dd79cadf4</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>OUT</value>
+      <footprint>Connector_JST:JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0254d6dc-cd85-4486-81eb-8cfed05470db</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="SK6812MINI">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</docs>
+      <footprints>
+        <fp>LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SK6812MINI</field>
+        <field name="Footprint">LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DOUT" type="output"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="DIN" type="input"/>
+        <pin num="4" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="LED">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/LED.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="D1" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D2" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D3" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D4" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D5" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D6" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D7" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D8" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="2" name="Dend">
+      <node ref="D8" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="3" name="Dstart">
+      <node ref="D1" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="4" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D2" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D3" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D4" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D5" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D6" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D7" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D8" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D2" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="6" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D3" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D4" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D5" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D6" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D7" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D8" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+  </nets>
+</export>
