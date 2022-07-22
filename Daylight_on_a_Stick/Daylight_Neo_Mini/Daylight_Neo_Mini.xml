@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\adam\Documents\GitHub\V3D-Voron-Mods\Daylight_on_a_Stick\Daylight_Neo_Mini\Daylight_Neo_Mini.kicad_sch</source>
-    <date>21/07/2022 12:32:01</date>
+    <date>22/07/2022 11:25:58</date>
     <tool>Eeschema (6.0.4)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -28,10 +28,10 @@
       <value>0.1uF</value>
       <footprint>Daylight:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_V3Dspec</footprint>
       <fields>
-        <field name="LCSC">C24497</field>
+        <field name="LCSC">C28233</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC" value="C24497"/>
+      <property name="LCSC" value="C28233"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -41,10 +41,10 @@
       <value>0.1uF</value>
       <footprint>Daylight:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_V3Dspec</footprint>
       <fields>
-        <field name="LCSC">C24497</field>
+        <field name="LCSC">C28233</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC" value="C24497"/>
+      <property name="LCSC" value="C28233"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -54,10 +54,10 @@
       <value>0.1uF</value>
       <footprint>Daylight:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_V3Dspec</footprint>
       <fields>
-        <field name="LCSC">C24497</field>
+        <field name="LCSC">C28233</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC" value="C24497"/>
+      <property name="LCSC" value="C28233"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -67,10 +67,10 @@
       <value>0.1uF</value>
       <footprint>Daylight:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_V3Dspec</footprint>
       <fields>
-        <field name="LCSC">C24497</field>
+        <field name="LCSC">C28233</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC" value="C24497"/>
+      <property name="LCSC" value="C28233"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -80,10 +80,10 @@
       <value>0.1uF</value>
       <footprint>Daylight:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_V3Dspec</footprint>
       <fields>
-        <field name="LCSC">C24497</field>
+        <field name="LCSC">C28233</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC" value="C24497"/>
+      <property name="LCSC" value="C28233"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -93,10 +93,10 @@
       <value>0.1uF</value>
       <footprint>Daylight:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_V3Dspec</footprint>
       <fields>
-        <field name="LCSC">C24497</field>
+        <field name="LCSC">C28233</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC" value="C24497"/>
+      <property name="LCSC" value="C28233"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -106,10 +106,10 @@
       <value>0.1uF</value>
       <footprint>Daylight:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_V3Dspec</footprint>
       <fields>
-        <field name="LCSC">C24497</field>
+        <field name="LCSC">C28233</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC" value="C24497"/>
+      <property name="LCSC" value="C28233"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -119,10 +119,10 @@
       <value>0.1uF</value>
       <footprint>Daylight:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_V3Dspec</footprint>
       <fields>
-        <field name="LCSC">C24497</field>
+        <field name="LCSC">C28233</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC" value="C24497"/>
+      <property name="LCSC" value="C28233"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -130,11 +130,12 @@
     </comp>
     <comp ref="D1">
       <value>LED_ALT</value>
-      <footprint>LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</footprint>
+      <footprint>Daylight:XL-3528RGBW-WS2812B</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
       <fields>
         <field name="LCSC">C2890364</field>
       </fields>
-      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
       <property name="LCSC" value="C2890364"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
@@ -143,11 +144,12 @@
     </comp>
     <comp ref="D2">
       <value>LED_ALT</value>
-      <footprint>LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</footprint>
+      <footprint>Daylight:XL-3528RGBW-WS2812B</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
       <fields>
         <field name="LCSC">C2890364</field>
       </fields>
-      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
       <property name="LCSC" value="C2890364"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
@@ -156,11 +158,12 @@
     </comp>
     <comp ref="D3">
       <value>LED_ALT</value>
-      <footprint>LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</footprint>
+      <footprint>Daylight:XL-3528RGBW-WS2812B</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
       <fields>
         <field name="LCSC">C2890364</field>
       </fields>
-      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
       <property name="LCSC" value="C2890364"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
@@ -169,11 +172,12 @@
     </comp>
     <comp ref="D4">
       <value>LED_ALT</value>
-      <footprint>LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</footprint>
+      <footprint>Daylight:XL-3528RGBW-WS2812B</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
       <fields>
         <field name="LCSC">C2890364</field>
       </fields>
-      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
       <property name="LCSC" value="C2890364"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
@@ -182,11 +186,12 @@
     </comp>
     <comp ref="D5">
       <value>LED_ALT</value>
-      <footprint>LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</footprint>
+      <footprint>Daylight:XL-3528RGBW-WS2812B</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
       <fields>
         <field name="LCSC">C2890364</field>
       </fields>
-      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
       <property name="LCSC" value="C2890364"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
@@ -195,11 +200,12 @@
     </comp>
     <comp ref="D6">
       <value>LED_ALT</value>
-      <footprint>LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</footprint>
+      <footprint>Daylight:XL-3528RGBW-WS2812B</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
       <fields>
         <field name="LCSC">C2890364</field>
       </fields>
-      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
       <property name="LCSC" value="C2890364"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
@@ -208,11 +214,12 @@
     </comp>
     <comp ref="D7">
       <value>LED_ALT</value>
-      <footprint>LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</footprint>
+      <footprint>Daylight:XL-3528RGBW-WS2812B</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
       <fields>
         <field name="LCSC">C2890364</field>
       </fields>
-      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
       <property name="LCSC" value="C2890364"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
@@ -221,11 +228,12 @@
     </comp>
     <comp ref="D8">
       <value>LED_ALT</value>
-      <footprint>LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</footprint>
+      <footprint>Daylight:XL-3528RGBW-WS2812B</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
       <fields>
         <field name="LCSC">C2890364</field>
       </fields>
-      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
       <property name="LCSC" value="C2890364"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo_Mini.kicad_sch"/>
@@ -285,23 +293,23 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="LED" part="SK6812MINI">
+    <libpart lib="LED" part="SK6812">
       <description>RGB LED with integrated controller</description>
-      <docs>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</docs>
+      <docs>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</docs>
       <footprints>
-        <fp>LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*</fp>
+        <fp>LED*SK6812*PLCC*5.0x5.0mm*P3.2mm*</fp>
       </footprints>
       <fields>
         <field name="Reference">D</field>
-        <field name="Value">SK6812MINI</field>
-        <field name="Footprint">LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</field>
-        <field name="Datasheet">https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</field>
+        <field name="Value">SK6812</field>
+        <field name="Footprint">LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</field>
       </fields>
       <pins>
-        <pin num="1" name="DOUT" type="output"/>
-        <pin num="2" name="VSS" type="power_in"/>
-        <pin num="3" name="DIN" type="input"/>
-        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="DIN" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="DOUT" type="output"/>
       </pins>
     </libpart>
     <libpart lib="Mechanical" part="MountingHole_Pad">
@@ -344,23 +352,23 @@
       <node ref="C6" pin="1" pintype="passive"/>
       <node ref="C7" pin="1" pintype="passive"/>
       <node ref="C8" pin="1" pintype="passive"/>
-      <node ref="D1" pin="4" pinfunction="VDD" pintype="power_in"/>
-      <node ref="D2" pin="4" pinfunction="VDD" pintype="power_in"/>
-      <node ref="D3" pin="4" pinfunction="VDD" pintype="power_in"/>
-      <node ref="D4" pin="4" pinfunction="VDD" pintype="power_in"/>
-      <node ref="D5" pin="4" pinfunction="VDD" pintype="power_in"/>
-      <node ref="D6" pin="4" pinfunction="VDD" pintype="power_in"/>
-      <node ref="D7" pin="4" pinfunction="VDD" pintype="power_in"/>
-      <node ref="D8" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D1" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D2" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D3" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D4" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D5" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D6" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D7" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D8" pin="3" pinfunction="VDD" pintype="power_in"/>
       <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
     <net code="2" name="Dend">
-      <node ref="D8" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D8" pin="4" pinfunction="DOUT" pintype="output"/>
       <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
     <net code="3" name="Dstart">
-      <node ref="D1" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="D1" pin="2" pinfunction="DIN" pintype="input"/>
       <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
     <net code="4" name="GND">
@@ -372,44 +380,44 @@
       <node ref="C6" pin="2" pintype="passive"/>
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="C8" pin="2" pintype="passive"/>
-      <node ref="D1" pin="2" pinfunction="VSS" pintype="power_in"/>
-      <node ref="D2" pin="2" pinfunction="VSS" pintype="power_in"/>
-      <node ref="D3" pin="2" pinfunction="VSS" pintype="power_in"/>
-      <node ref="D4" pin="2" pinfunction="VSS" pintype="power_in"/>
-      <node ref="D5" pin="2" pinfunction="VSS" pintype="power_in"/>
-      <node ref="D6" pin="2" pinfunction="VSS" pintype="power_in"/>
-      <node ref="D7" pin="2" pinfunction="VSS" pintype="power_in"/>
-      <node ref="D8" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D1" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D2" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D3" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D4" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D5" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D6" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D7" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D8" pin="1" pinfunction="VSS" pintype="power_in"/>
       <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
-    <net code="5" name="Net-(D1-Pad1)">
-      <node ref="D1" pin="1" pinfunction="DOUT" pintype="output"/>
-      <node ref="D2" pin="3" pinfunction="DIN" pintype="input"/>
+    <net code="5" name="Net-(D1-Pad4)">
+      <node ref="D1" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D2" pin="2" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="6" name="Net-(D2-Pad1)">
-      <node ref="D2" pin="1" pinfunction="DOUT" pintype="output"/>
-      <node ref="D3" pin="3" pinfunction="DIN" pintype="input"/>
+    <net code="6" name="Net-(D2-Pad4)">
+      <node ref="D2" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D3" pin="2" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="7" name="Net-(D3-Pad1)">
-      <node ref="D3" pin="1" pinfunction="DOUT" pintype="output"/>
-      <node ref="D4" pin="3" pinfunction="DIN" pintype="input"/>
+    <net code="7" name="Net-(D3-Pad4)">
+      <node ref="D3" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D4" pin="2" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="8" name="Net-(D4-Pad1)">
-      <node ref="D4" pin="1" pinfunction="DOUT" pintype="output"/>
-      <node ref="D5" pin="3" pinfunction="DIN" pintype="input"/>
+    <net code="8" name="Net-(D4-Pad4)">
+      <node ref="D4" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D5" pin="2" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="9" name="Net-(D5-Pad1)">
-      <node ref="D5" pin="1" pinfunction="DOUT" pintype="output"/>
-      <node ref="D6" pin="3" pinfunction="DIN" pintype="input"/>
+    <net code="9" name="Net-(D5-Pad4)">
+      <node ref="D5" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D6" pin="2" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="10" name="Net-(D6-Pad1)">
-      <node ref="D6" pin="1" pinfunction="DOUT" pintype="output"/>
-      <node ref="D7" pin="3" pinfunction="DIN" pintype="input"/>
+    <net code="10" name="Net-(D6-Pad4)">
+      <node ref="D6" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D7" pin="2" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="11" name="Net-(D7-Pad1)">
-      <node ref="D7" pin="1" pinfunction="DOUT" pintype="output"/>
-      <node ref="D8" pin="3" pinfunction="DIN" pintype="input"/>
+    <net code="11" name="Net-(D7-Pad4)">
+      <node ref="D7" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D8" pin="2" pinfunction="DIN" pintype="input"/>
     </net>
   </nets>
 </export>
