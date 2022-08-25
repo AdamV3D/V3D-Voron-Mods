@@ -1,12 +1,13 @@
 
 *.gbr
 *.csv
-*.zip
 *.gbrjob
 *.drl
 Daylight_on_a_Stick/Daylight/Panel Command.txt
 Daylight_on_a_Stick/Daylight_Mini/Panel Command.txt
 Daylight_on_a_Stick/Daylight_Neo/Panel Command.txt
 Daylight_on_a_Stick/Daylight_Neo_Mini/Panel Command.txt
+Daylight_on_a_Stick/*/*-backups
 Daylight_on_a_Stick/*/Panel
 Daylight_on_a_Stick/*/assembly
+v2.4/V2.4 r2 Wiring Diagram.svg
