@@ -1,0 +1,21 @@
+kikit panelize ^
+--layout "grid; rows: 12; cols: 1; space: 2mm" ^
+--tabs annotation ^
+--source "tolerance: 15mm" ^
+--cuts "mousebites; drill: 0.5mm; spacing: 1mm; offset: 0.2mm; prolong: 1mm" ^
+--framing "frame; width: 8mm; space: 2mm; cuts: both" ^
+--fiducials "4fid; hoffset: 3.85mm; voffset: 3.85mm; opening: 2mm" ^
+--text "simple; text: Vector 3D Daybreak Panel; anchor: mt; voffset: 4mm; hjustify: center; vjustify: center;" ^
+--post "millradius: 1mm" ^
+C:\Users\adam\Documents\GitHub\V3D-Voron-mods\Daylight_on_a_stick\Daylight\Daylight.kicad_pcb ^
+C:\Users\adam\Documents\GitHub\V3D-Voron-mods\Daylight_on_a_stick\Daylight\Panel\Daylight_P.kicad_pcb
+
+
+
+
+
+
+
+
+--tabs "fixed; hwidth: 5mm; vwidth: 8mm; vcount: 10" ^
+--copperfill solid ^

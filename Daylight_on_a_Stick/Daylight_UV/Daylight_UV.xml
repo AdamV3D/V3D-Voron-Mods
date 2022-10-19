@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\adam\Documents\GitHub\V3D-Voron-Mods\Daylight_on_a_Stick\Daylight\Daylight.kicad_sch</source>
-    <date>04/10/2022 09:19:13</date>
+    <source>C:\Users\adam\Documents\GitHub\V3D-Voron-Mods\Daylight_on_a_Stick\Daylight_UV\Daylight_UV.kicad_sch</source>
+    <date>04/10/2022 09:10:54</date>
     <tool>Eeschema (6.0.7)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -10,7 +10,7 @@
         <company/>
         <rev/>
         <date/>
-        <source>Daylight.kicad_sch</source>
+        <source>Daylight_UV.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -25,359 +25,275 @@
   </design>
   <components>
     <comp ref="D1">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5b4df7cd-3263-4b77-92ac-f299a3fa3156</tstamps>
     </comp>
     <comp ref="D2">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>37e34f3c-dc44-4cec-a342-5b746a2dad87</tstamps>
     </comp>
     <comp ref="D3">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>29f3b13e-9806-46e5-a45b-c53319e5cc93</tstamps>
     </comp>
     <comp ref="D4">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8b9bc056-fcb9-45a1-955b-54dc12c456b3</tstamps>
     </comp>
     <comp ref="D5">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>93c52389-64a9-4d5a-bded-97b92d3b032b</tstamps>
     </comp>
     <comp ref="D6">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6075ff26-0bd1-4639-a3b7-30cdc88d4942</tstamps>
     </comp>
     <comp ref="D7">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e3d11dd0-0406-4573-964a-8997c435549a</tstamps>
     </comp>
     <comp ref="D8">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>06d84841-b2cb-4f7a-9b7e-23d6cc512d11</tstamps>
     </comp>
     <comp ref="D9">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>35d0be1e-11a3-4f13-baad-8e3f7657e47c</tstamps>
     </comp>
     <comp ref="D10">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fba4a331-6aff-4bbc-91ed-8e24bbbfae6e</tstamps>
     </comp>
     <comp ref="D11">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3a52a30a-2fec-46e7-97cd-fd60c0123483</tstamps>
     </comp>
     <comp ref="D12">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7fbe4aa7-4ce4-4e66-931e-a3d15d8c7e2b</tstamps>
     </comp>
     <comp ref="D13">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>087addda-d5cd-4969-a211-d4995e81a91e</tstamps>
     </comp>
     <comp ref="D14">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3997f850-eed3-42f5-99c7-5c4a7e3dfcc9</tstamps>
     </comp>
     <comp ref="D15">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ea7845b2-5595-4caa-b585-a19c5fb11b1b</tstamps>
     </comp>
     <comp ref="D16">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1cf6ee47-95e2-4dfb-a9ac-e7498c710993</tstamps>
     </comp>
     <comp ref="D17">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f9c0d5ec-a087-497e-a0e0-827b83ee6fc4</tstamps>
     </comp>
     <comp ref="D18">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1590b949-7fd4-4fa5-a297-204f463d5508</tstamps>
     </comp>
     <comp ref="D19">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ef966ccb-457b-4190-9601-dc1bd6ff12aa</tstamps>
     </comp>
     <comp ref="D20">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>18c14527-45e2-43a0-86b5-b0b900e19dcd</tstamps>
     </comp>
     <comp ref="D21">
-      <value>LED_ALT</value>
+      <value>LED_UV</value>
       <footprint>LED_SMD:LED_PLCC_2835</footprint>
       <fields>
-        <field name="LCSC">C2843876</field>
-        <field name="ManfNum">XL-2835UWC-02</field>
-        <field name="abv.Footprint">2835</field>
+        <field name="LCSC">C2915615</field>
       </fields>
       <libsource lib="Device" part="LED_ALT" description="Light emitting diode, filled shape"/>
-      <property name="LCSC" value="C2843876"/>
-      <property name="abv.Footprint" value="2835"/>
-      <property name="ManfNum" value="XL-2835UWC-02"/>
+      <property name="LCSC" value="C2915615"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d13700fa-0042-41b7-80bf-1ad40b704bab</tstamps>
     </comp>
@@ -386,15 +302,11 @@
       <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17955</field>
-        <field name="ManfNum">1206W4F200JT5E</field>
-        <field name="abv.Footprint">1206</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC" value="C17955"/>
-      <property name="abv.Footprint" value="1206"/>
-      <property name="ManfNum" value="1206W4F200JT5E"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>94fb3a87-e6be-4c86-bae9-6e7f1293288c</tstamps>
     </comp>
@@ -403,15 +315,11 @@
       <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17955</field>
-        <field name="ManfNum">1206W4F200JT5E</field>
-        <field name="abv.Footprint">1206</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC" value="C17955"/>
-      <property name="abv.Footprint" value="1206"/>
-      <property name="ManfNum" value="1206W4F200JT5E"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b912c418-e9b1-4e60-af6e-51ac80818d74</tstamps>
     </comp>
@@ -420,15 +328,11 @@
       <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17955</field>
-        <field name="ManfNum">1206W4F200JT5E</field>
-        <field name="abv.Footprint">1206</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC" value="C17955"/>
-      <property name="abv.Footprint" value="1206"/>
-      <property name="ManfNum" value="1206W4F200JT5E"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>38f008b9-2f3e-49f9-b56c-9e07a00c82b3</tstamps>
     </comp>
@@ -437,15 +341,11 @@
       <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17955</field>
-        <field name="ManfNum">1206W4F200JT5E</field>
-        <field name="abv.Footprint">1206</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC" value="C17955"/>
-      <property name="abv.Footprint" value="1206"/>
-      <property name="ManfNum" value="1206W4F200JT5E"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ded9e3dd-fe71-4335-9499-83e82ff8b51e</tstamps>
     </comp>
@@ -454,15 +354,11 @@
       <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17955</field>
-        <field name="ManfNum">1206W4F200JT5E</field>
-        <field name="abv.Footprint">1206</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC" value="C17955"/>
-      <property name="abv.Footprint" value="1206"/>
-      <property name="ManfNum" value="1206W4F200JT5E"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1242236b-2e74-4c5a-89db-9f6c74b5a4cc</tstamps>
     </comp>
@@ -471,15 +367,11 @@
       <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C17955</field>
-        <field name="ManfNum">1206W4F200JT5E</field>
-        <field name="abv.Footprint">1206</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC" value="C17955"/>
-      <property name="abv.Footprint" value="1206"/>
-      <property name="ManfNum" value="1206W4F200JT5E"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <property name="Sheetfile" value="Daylight_UV.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>86e63c4f-5d2f-47fd-bb32-5ed5f1c821f0</tstamps>
     </comp>

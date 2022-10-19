@@ -1,0 +1,50 @@
+11579165856614
+Daylight
+JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal Daylight
+JST XH series connector, S2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH horizontal
+0
+2
+2
+Daylight
+LED_PLCC_2835_Handsoldering
+https://www.luckylight.cn/media/component/data-sheet/R2835BC-B2M-M10.pdf
+LED
+0
+2
+2
+Daylight
+Logo_Voron_10mm
+
+
+0
+0
+0
+Daylight
+Logo_Voron_10mm_Copper
+
+
+0
+0
+0
+Daylight
+PinHeader_1x02_P2.54mm_Horizontal
+Through hole angled pin header, 1x02, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x02 2.54mm single row
+0
+2
+2
+Daylight
+PinHeader_1x02_P2.54mm_Horizontal_mirrored
+Through hole angled pin header, 1x02, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x02 2.54mm single row
+0
+2
+2
+Daylight
+R_1210_3225Metric_Pad1.30x2.65mm_HandSolder
+Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
