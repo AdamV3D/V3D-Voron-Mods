@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>C:\Users\adam\Documents\GitHub\V3D-Voron-Mods\Daylight_on_a_Stick\Daylight_Neo\Daylight_Neo.kicad_sch</source>
-    <date>22/07/2022 11:02:34</date>
-    <tool>Eeschema (6.0.4)</tool>
+    <date>21/10/2022 21:40:26</date>
+    <tool>Eeschema (6.0.7)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -376,18 +376,26 @@
       <tstamps>b047ffcd-3017-4b7f-aba2-12876df296b6</tstamps>
     </comp>
     <comp ref="J1">
-      <value>IN</value>
+      <value>1x3P XH</value>
       <footprint>Connector_JST:JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal</footprint>
+      <fields>
+        <field name="LCSC">C2908612</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C2908612"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ccaefeec-b6db-46b5-a63e-064dd79cadf4</tstamps>
     </comp>
     <comp ref="J2">
-      <value>OUT</value>
+      <value>1x3P XH</value>
       <footprint>Connector_JST:JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal</footprint>
+      <fields>
+        <field name="LCSC">C2908612</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C2908612"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Daylight_Neo.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>

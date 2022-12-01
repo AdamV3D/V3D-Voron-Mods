@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\adam\Documents\GitHub\V3D-Voron-Mods\Daylight_on_a_Stick\Daylight\Daylight.kicad_sch</source>
-    <date>04/10/2022 09:19:13</date>
+    <date>19/10/2022 17:12:58</date>
     <tool>Eeschema (6.0.7)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -381,6 +381,32 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d13700fa-0042-41b7-80bf-1ad40b704bab</tstamps>
     </comp>
+    <comp ref="J1">
+      <value>Conn_01x02</value>
+      <footprint>Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal</footprint>
+      <fields>
+        <field name="LCSC">C2908611</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C2908611"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0254d6dc-cd85-4486-81eb-8cfed05470db</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02</value>
+      <footprint>Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal</footprint>
+      <fields>
+        <field name="LCSC">C2908611</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C2908611"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Daylight.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccaefeec-b6db-46b5-a63e-064dd79cadf4</tstamps>
+    </comp>
     <comp ref="R1">
       <value>20R 0.25W</value>
       <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
@@ -567,11 +593,15 @@
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
     <net code="2" name="GND">
       <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
     <net code="3" name="Net-(D1-Pad1)">
       <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
